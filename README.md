@@ -1,4 +1,4 @@
-# 漫画批量裁边器 (Manga Auto Crop)
+# 漫画批量裁边器 (Epub Manga Cutting)
 
 > 🎯 一键批量裁切漫画白边，自动检测黑框，让漫画在阅读器上完美全屏！
 
@@ -46,15 +46,7 @@
 
 ### 方式二：从源码运行
 
-```bash
-# 1. 克隆仓库
-git clone https://github.com/yourusername/manga-auto-crop.git
-cd manga-auto-crop
-
-# 2. 安装依赖
-pip install pillow numpy
-
-# 3. 运行
+```
 python 漫画批量裁边器.py
 ```
 ---
