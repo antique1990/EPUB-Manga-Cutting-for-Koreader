@@ -41,7 +41,7 @@
 
 ### 方式一：使用 EXE（推荐，无需 Python）
 
-1. 前往 [Releases](https://github.com/yourusername/manga-auto-crop/releases) 下载最新版 `漫画批量裁边器.exe`
+1. 前往 [Releases]([https://github.com/yourusername/manga-auto-crop/releases](https://github.com/antique1990/EPUB-Manga-Cutting-for-Koreader/releases)) 下载最新版 `漫画批量裁边器.exe`
 2. 双击运行即可
 
 ### 方式二：从源码运行
