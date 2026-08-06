@@ -33,7 +33,8 @@
 
 ## 🖼️ 界面预览
 
-<img width="739" height="823" alt="Image" src="https://github.com/user-attachments/assets/19ebcd87-06a5-445b-a36f-b06e95b0efe5" />
+<img width="781" height="971" alt="image" src="https://github.com/user-attachments/assets/c7f66e70-56e9-4c54-80e8-dfc14d7c6b21" />
+
 
 ---
 
